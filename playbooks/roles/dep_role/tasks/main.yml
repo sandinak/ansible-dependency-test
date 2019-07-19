@@ -1,0 +1,4 @@
+---
+- name: whoami
+  debug:
+    var: role_name

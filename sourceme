@@ -1,0 +1,2 @@
+ANSIBLE_HOME=${PWD}
+ANSIBLE_INVENTORY=${PWD}/inventory/localhost
